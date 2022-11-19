@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rex-Coding1
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning html and javascipt
+- 🌱 I’m currently learning html and javascipt and many more
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me ...
 
