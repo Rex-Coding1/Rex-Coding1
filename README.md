@@ -1,4 +1,4 @@
-<h3 align=" 👋 Hi, I’m @Rex-Coding1</h3> -
+ <h1 align="center">Hi 👋 Hi, I’m @Rex-Coding1</h1>
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning html and javascipt and many more
 - 💞️ I’m looking to collaborate on project
