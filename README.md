@@ -1,7 +1,7 @@
-# Hi, I'm Rex-Coding1! 👋
+# Hi, I'm Rex-Coding1!
 ### About me
 
-	- 👀 I’m interested in video games
+	- 👀 I’m interested on something that will maybe be cool
 
 	- 🌱 I’m currently learning html and many more
 
